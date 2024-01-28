@@ -9,3 +9,4 @@
 - [Connectar Arduino a bateries](https://www.luisllamas.es/alimentar-arduino-baterias/)
 - [Sessió presencial CyL](https://www.youtube.com/watch?v=jN0MJreCqQg&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=6)
 - [Sessió 6 Formació CANSAT Carcassa](https://www.youtube.com/watch?v=Rn1V7hcv5JU&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=7)
+- [Getting started with CANSAT](https://www.esa.int/Education/CanSat/Getting_Started_with_CanSat_A_Guide_to_the_Primary_Mission_Teach_with_Space_T08)
