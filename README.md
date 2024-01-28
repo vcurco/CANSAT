@@ -7,3 +7,5 @@
 - [Sessió4 Formació CANSAT Paracaigudes](https://www.youtube.com/watch?v=foDUDJuxahM&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=5)
 - [Sessió 5 Formació CANSAT GPS](https://www.youtube.com/watch?v=UK6Ymivad20&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=5)
 - [Connectar Arduino a bateries](https://www.luisllamas.es/alimentar-arduino-baterias/)
+- [Sessió presencial CyL](https://www.youtube.com/watch?v=jN0MJreCqQg&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=6)
+- [Sessió 6 Formació CANSAT Carcassa](https://www.youtube.com/watch?v=Rn1V7hcv5JU&list=PLWFcgMVza2A91OVVN7AwcoGZPvIa6JOpf&index=7)
